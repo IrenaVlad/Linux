@@ -1,0 +1,9 @@
+folder_in: /home/zerg/tst
+folder_out: /home/zerg/out
+folder_ext: /home/zerg/folder1
+folder_ext2: /home/zerg/folder2
+count: 5
+bs: 1M
+ssh_host: localhost
+ssh_username: user
+ssh_password: secret
